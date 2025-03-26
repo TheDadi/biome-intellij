@@ -1,3 +1,5 @@
 packages:
   - foo
   - bar
+onlyBuiltDependencies:
+  - '@biomejs/biome'
